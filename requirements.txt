@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+opencv-python
+pillow
+matplotlib
+seaborn
+pandas
+kagglehub
