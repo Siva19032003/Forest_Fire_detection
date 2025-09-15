@@ -117,7 +117,7 @@ I can Use StreamLit For MY UI Page
 # 
 # 
 # 
-#     DATA_ROOT = kagglehub.dataset_download("abdelghaniaaba/wildfire-prediction-dataset")
+#     DATA_ROOT = "Dataset"
 #     train_path = os.path.join(DATA_ROOT, "train")
 #     valid_path = os.path.join(DATA_ROOT, "valid")
 #     test_path  = os.path.join(DATA_ROOT, "test")
