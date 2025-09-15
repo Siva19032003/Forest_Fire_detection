@@ -14,7 +14,6 @@ I can Use StreamLit For MY UI Page
 
 
 # Commented out IPython magic to ensure Python compatibility.
-# %%writefile app.py
 # 
 # # Dependencies
 # 
@@ -293,7 +292,5 @@ I can Use StreamLit For MY UI Page
 #     This application helps in **early detection of forest fires** using satellite imagery.
 #     """)
 
-!streamlit run app.py &>/content/logs.txt & curl  ipv4.icanhazip.com
 
-! npx localtunnel --port 8501
 
